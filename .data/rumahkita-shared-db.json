@@ -1,0 +1,9 @@
+{
+  "familiesById": {},
+  "inviteCodeToFamilyId": {},
+  "usersByEmail": {},
+  "supabaseConfig": {
+    "url": "https://wseklbunlkyarrizzuzm.supabase.co",
+    "anonKey": "sb_publishable_Smkb2y_-DfjN4xoKnxY4Ew_LnWniNFO"
+  }
+}

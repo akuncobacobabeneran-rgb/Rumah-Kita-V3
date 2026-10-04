@@ -1,0 +1,6 @@
+{
+  "summary":  "Rencana perbaikan penyimpanan perubahan Nama Keluarga agar tidak kembali ke nama awal saat halaman di-reload, dengan menghilangkan race condition sinkronisasi dan memprioritaskan timestamp updated_at terbaru di Server serta Supabase.",
+  "updatedAt":  "2026-10-02T08:06:28.483871458Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

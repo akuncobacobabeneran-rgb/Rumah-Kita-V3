@@ -1,0 +1,6 @@
+{
+  "name": "RumahKita — Aplikasi Manajemen Keluarga",
+  "description": "Aplikasi web manajemen keuangan rumah tangga, kalender keluarga, tugas & maintenance rumah, jurnal keluarga, dan ruang pasangan Berdua.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
